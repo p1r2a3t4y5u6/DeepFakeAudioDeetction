@@ -119,7 +119,7 @@ Open **http://localhost:8501** in your browser.
 
 ## 🌐 Try It Online
 
-Live demo: **https://deepfakeaudiodetector-7k9abbvhwcp26xevh5w9vu.streamlit.app/**
+Live demo: https://deepfakeaudiodetectionmars-e2yd4xfh7bzendnpbcp2vb.streamlit.app/
 
 Drop in a `.wav`, `.mp3`, `.flac`, or `.ogg` file to get:
 - A Genuine / Deepfake label
